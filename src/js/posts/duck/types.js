@@ -1,0 +1,7 @@
+const FETCH_POSTS = 'FETCH_POSTS';
+const CREATE_POST = 'CREATE_POST';
+
+export default {
+	FETCH_POSTS,
+	CREATE_POST
+};
